@@ -10,11 +10,40 @@ The studentship program is open to all second, third, or fourth year undergradua
 
 ## Preparing an Application
 
-Prospective students should begin by approaching a [PI](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology/academic-staff) or [post-doctoral researcher](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology/postdoctoral-researchers) within the department with a summary of their application, making sure to emphasise the research skills that they can bring to the lab. The PI / post-doc then decides whether to proceed with a full application, noting that only one studentship can be awarded each year to each research group. Applications are then prepared collaboratively between the student and prospective supervisor. 
+Prospective students should begin by approaching a [PI](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology/academic-staff) or [post-doctoral researcher](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology/postdoctoral-researchers) within the department with their CV and a summary of their application, making sure to emphasise the research skills that they can bring to the lab. The PI / post-doc then decides whether to proceed with a full application, noting that only one studentship can be awarded each year to each research group. Competition for these placements is strong, and supervisors may wish to meet or interview shortlisted candidates. This discussion, together with your CV and research statement, will help supervisors assess suitability for the project.
+
+## Funding routes
+
+To be eligible for departmental summer studentship funding, students must first apply for external funding. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
+
+Relevant external funding schemes include (but are not limited to):
+
+[British Pharmacological Society](https://www.bps.ac.uk/membership-awards/prizes,-awards-and-grants/our-prizes/vacation-studentships) 
+
+[Cystic Fibrosis](https://www.cysticfibrosis.org.uk/research/support-for-researchers/apply-for-funding/summer-studentships)
+
+[Genetics Society](https://genetics.org.uk/event/our-workshops/summer-studentships/)
+
+[Pathological Society](https://www.pathsoc.org/grants_lectures_awards/grants/247/undergraduate_elective_bursary_ub0226)
+
+[Biochemical Society](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/)
+
+[British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/studentships/)
+
+[Experimental Psychology Society](https://eps.ac.uk/undergraduate-research-bursary/)
+
+[Association for the Study of Animal Behaviour](https://asab.squarespace.com/scholarships/)
+
+[British Society for Neuroendocrinology](https://www.neuroendo.org.uk/grants)
+
+[Royal Society of Biology](https://www.rsb.org.uk/plant-health-ug-studentships.html)
+
+[The Gurdon/The Company of Biologists](https://bsdb.org/awards/gurdon-studentships-for-summer-vacation-work/)
+
 
 ## Submitting an Application
 
-Applications should be submitted directly by the prospective supervisor via [this online form](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwna2Wu6XflhCh8IlZtIjonJURTA2R1NJM1pHV0k0VUJMTFBPOThCNTNWNC4u).
+Applications should be submitted directly by the student via [this online form](https://forms.cloud.microsoft/e/NBJxHApbe4).
 
 Each application must include three paragraphs (max 200 words each) describing:
 
@@ -24,12 +53,9 @@ Each application must include three paragraphs (max 200 words each) describing:
 
 ## Selection Process
 
-Applicants will be assessed on the basis of scientific and academic merit. In the circumstances where all things are equal, priority will be given to those from groups that are currently underrepresented in the student population at UCL and/or who have come from socioeconomically deprived backgrounds, using positive action under the Equality Act 2010 where appropriate.
+Applicants will be assessed on the basis of scientific and academic merit. The selection committee is comprised of research staff from across the department. This committee will select the top three students according to the quality and clarity of their applications. All unsuccessful applicants will receive feedback on how to improve their applications in future.
 
-The selection committee is comprised of research staff from across the department. This committee will select the top three students according to the quality and clarity of their applications. All unsuccessful applicants will receive feedback on how to improve their applications in future.
-
-Please be aware that we will collect anonymised equality, diversity and inclusion information as well as information to inform whether applicants meet any of the widening participation criteria. We will retain your personal information only for as long as is necessary, in accordance with the GDPR (General Data Protection Regulation). If we do not have any requirement to retain personal information for business, regulatory, or legal reasons, we will delete it.
 
 ## Timeline
 
-Applications can be submitted any time up to the 1st of May 2025. Students should expect to hear whether their application was successful within a fortnight of the application deadline.
+Applications can be submitted any time up to the 1st of April 2026. Students should expect to hear whether their application was successful within a fortnight of the application deadline.

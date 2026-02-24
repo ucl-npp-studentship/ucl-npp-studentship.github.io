@@ -16,7 +16,7 @@ Prospective students should begin by approaching a [PI](https://www.ucl.ac.uk/bi
 
 To be eligible for departmental summer studentship funding, students must first apply for external funding. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
 
-Relevant external funding schemes include (but are not limited to):
+Relevant external funding schemes with deadlines in March-June include (but are not limited to):
 
 [British Pharmacological Society](https://www.bps.ac.uk/membership-awards/prizes,-awards-and-grants/our-prizes/vacation-studentships) 
 
@@ -24,17 +24,11 @@ Relevant external funding schemes include (but are not limited to):
 
 [Genetics Society](https://genetics.org.uk/event/our-workshops/summer-studentships/)
 
-[Pathological Society](https://www.pathsoc.org/grants_lectures_awards/grants/247/undergraduate_elective_bursary_ub0226)
-
 [Biochemical Society](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/)
 
 [British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/studentships/)
 
-[Experimental Psychology Society](https://eps.ac.uk/undergraduate-research-bursary/)
-
 [Association for the Study of Animal Behaviour](https://asab.squarespace.com/scholarships/)
-
-[British Society for Neuroendocrinology](https://www.neuroendo.org.uk/grants)
 
 [Royal Society of Biology](https://www.rsb.org.uk/plant-health-ug-studentships.html)
 

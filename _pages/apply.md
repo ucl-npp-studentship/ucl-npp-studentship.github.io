@@ -14,7 +14,7 @@ Prospective students should begin by approaching a [PI](https://www.ucl.ac.uk/bi
 
 ## Funding routes
 
-We strongly encourage students to also submit applications for external funding to cover their summer internships, alongside their applications to this program. Please list any external funding schemes that you have applied for in Part 3 of your application (see further details below), and note that applications from students who have applied for external funding will be prioritised. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
+We strongly encourage students to also submit applications for external funding to cover their summer internships, alongside their applications to this program. Please list any external funding schemes that you have applied for in your application, as applications from students who have applied for external funding will be prioritised. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
 
 Relevant external funding schemes with deadlines in March-June include (but are not limited to):
 

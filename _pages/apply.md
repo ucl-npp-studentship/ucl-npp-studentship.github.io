@@ -6,7 +6,7 @@ permalink: /apply/
 
 ## Eligibility Criteria
 
-The studentship program is open to all second, third, or fourth year undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. As such, you are ineligible to apply if you are in your first year of study (please note you are considered a first-year student during the summer after completing the first year of your degree course). Please note that we will prioritise applications from those who have not previously undertaken a summer studentship.
+The studentship program is open to all second, third, or fourth year undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. As such, you are ineligible to apply if you are in your first year of study (and please note that you are considered a first-year student during the summer after completing the first year of your degree course). In addition, we will prioritise applications from those who have not previously undertaken a summer studentship.
 
 ## Preparing an Application
 

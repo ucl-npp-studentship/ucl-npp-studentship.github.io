@@ -6,7 +6,7 @@ permalink: /apply/
 
 ## Eligibility Criteria
 
-The studentship program is open to all second, third, or fourth year undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. As such, you are ineligible to apply if you are in your first year of study (please note you are considered a first-year student during the summer after your first year at university). Please note that we will prioritise applications from those who have not previously undertaken a summer studentship.
+The studentship program is open to all second, third, or fourth year undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. As such, you are ineligible to apply if you are in your first year of study (please note you are considered a first-year student during the summer after completing the first year of your degree course). Please note that we will prioritise applications from those who have not previously undertaken a summer studentship.
 
 ## Preparing an Application
 
@@ -14,7 +14,7 @@ Prospective students should begin by approaching a [PI](https://www.ucl.ac.uk/bi
 
 ## Funding routes
 
-To be eligible for departmental summer studentship funding, students must first apply for external funding. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
+We strongly encourage students to also submit applications for external funding to cover their summer internships, alongside their applications to this program. Please list any external funding schemes that you have applied for in Part 3 of your application (see further details below), and note that applications from students who have applied for external funding will be prioritised. Students are strongly encouraged to contact potential supervisors as soon as possible to discuss projects and suitable funders. 
 
 Relevant external funding schemes with deadlines in March-June include (but are not limited to):
 
@@ -47,7 +47,7 @@ Each application must include three paragraphs (max 200 words each) describing:
 
 ## Selection Process
 
-Applicants will be assessed on the basis of scientific and academic merit. The selection committee is comprised of research staff from across the department. This committee will select the top three students according to the quality and clarity of their applications. All unsuccessful applicants will receive feedback on how to improve their applications in future.
+Applicants will be assessed on the basis of scientific and academic merit. The selection committee is comprised of research staff from across the department. This committee will select the top four students according to the quality and clarity of their applications. All unsuccessful applicants will receive feedback on how to improve their applications in future.
 
 
 ## Timeline
